@@ -55,5 +55,11 @@ a:hover {
   color: red;
 }
 
+#knapElement {
+  background-color: blue;
+  color: antiquewhite;
+  border-radius: 10px;
+  padding: 30px;
+}
 @media (min-width: 800px) {
 }
